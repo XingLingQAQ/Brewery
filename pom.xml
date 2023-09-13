@@ -169,10 +169,10 @@
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-			<groupId>net.milkbowl.vault</groupId>
-			<artifactId>VaultAPI</artifactId>
-			<version>1.6</version>
-			<scope>provided</scope>
+			<groupId>com.github.MilkBowl</groupId>
+            <artifactId>VaultAPI</artifactId>
+            <version>1.7</version>
+            <scope>provided</scope>
 			<exclusions>
 				<exclusion>
 					<artifactId>*</artifactId>
